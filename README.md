@@ -14,6 +14,7 @@ Whether it's for a novice exploring web development or a professional seeking to
 | Lesson                                                            | Skills                                                                                        |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Setup](./setup/README.md)                                        | Setting up the development environment                                                        |
+| [History of HTML](./history-of-html/README.md)                    | Tracing the origins and evolution of HTML, from Tim Berners-Lee to modern governance          |
 | [Concepts](./concepts/README.md)                                  | Introduction to HTML's role, elements, and basic syntax                                       |
 | [Comments and Elements](./comments-and-elements/README.md)        | Adding comments to HTML and understanding the role of elements                                |
 | [Element Attributes](./element-attributes/README.md)              | Use of attributes to modify elements, including 'id', 'class', and inline styles              |
@@ -23,7 +24,6 @@ Whether it's for a novice exploring web development or a professional seeking to
 | [Semantic HTML](./semantic-html/README.md)                        | Utilizing semantic tags for SEO and enhanced accessibility                                    |
 | [Structural Pitfalls](./structural-pitfalls/README.md)            | Identifying and avoiding common errors in HTML structuring like malformed tags                |
 | [Why `index.html`?](./why-index/README.md)                        | Significance of naming the main HTML file as index.html and its impact on user experience     |
-| [History of HTML](./history-of-html/README.md)                    | Tracing the origins and evolution of HTML, from Tim Berners-Lee to modern governance          |
 | [Emmet](./emmet/README.md)                                        | Learning Emmet syntax for efficient HTML and CSS coding, including abbreviation and expansion |
 | **Total content**                                                 |   61 min   |                    
 
