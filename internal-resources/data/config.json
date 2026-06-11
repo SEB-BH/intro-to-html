@@ -20,8 +20,14 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "History of HTML",
+          "dirName": "history-of-html",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Boilerplate",
+          "dirName": "boilerplate",
           "type": "Content",
           "videoUrl": ""
         },
@@ -40,12 +46,6 @@
         {
           "friendlyName": "Nesting Elements",
           "dirName": "nesting-elements",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "Boilerplate",
-          "dirName": "boilerplate",
           "type": "Content",
           "videoUrl": ""
         },
@@ -70,12 +70,6 @@
         {
           "friendlyName": "Why  index.html ?",
           "dirName": "why-index",
-          "type": "Content",
-          "videoUrl": ""
-        },
-        {
-          "friendlyName": "History of HTML",
-          "dirName": "history-of-html",
           "type": "Content",
           "videoUrl": ""
         },

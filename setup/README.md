@@ -28,8 +28,6 @@ With the files created, open the contents of the directory in VS Code:
 code .
 ```
 
-Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key.
-
 ## Install the Live Server extension
 
 Live Server is a VS Code extension that lets us open an HTML file in the browser and automatically refresh the page when we save changes.

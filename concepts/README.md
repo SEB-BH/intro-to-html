@@ -7,6 +7,8 @@
 
 ## What is HTML?
 
+Open the `index.html` file and add HTML boilerplate by typing `!` and then hitting the `Tab` key.
+
 HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
 HyperText? Markup? HyperText is text displayed on a digital device with references to other text that can be navigated to using hyperlinks (commonly called links). Markup provides both structure and semantic meaning to content. For example, an `<h1>` indicates the main heading for a document, while `<p>` represents a paragraph of text.
@@ -22,3 +24,6 @@ HTML is one of the three main technologies used in creating web content in brows
 Just like a house needs structural framing to stand, websites need structural content to style and assign behavior to. Fun and interactive sites are built on a base of HTML.
 
 In addition to HTML providing the structure of web content, it can also play a key role in search engine optimization (SEO). Depending on how documents are structured, HTML can improve their chances of appearing in requested searches. This can lead to improved visibility and success from a marketing perspective.
+
+
+
