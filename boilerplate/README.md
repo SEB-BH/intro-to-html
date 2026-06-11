@@ -9,7 +9,7 @@
 
 HTML boilerplate is the markup that exists on every web page. In other words, it's the starting point for any work.
 
-We've already discovered how to add this boilerplate - type a `!` in the `index.html` file and press `Tab` to create it. Below is the result of that. Note that our current HTML has a little more right now, but focus on these parts for now:
+We've already discovered how to add this boilerplate - type a `!` in the `index.html` file and press `Tab` to create it. Below is the result of that.
 
 ```html
 <!DOCTYPE html>
